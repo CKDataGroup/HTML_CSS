@@ -10,7 +10,7 @@ This project includes:
 - Practice of HTML tags like headings, paragraphs, links, and images.
 
 ## How to View the Project
-1. Download or clone the repository - https://github.com/CKDataGroup/HTML_CSS
+1. Download or clone the repository - [https://github.com/CKDataGroup/HTML_CSS](https://github.com/CKDataGroup/HTML_CSS.git)
 
 ## Skills Practiced
 - Writing HTML structure (headings, paragraphs, links, images).
