@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <title>One-Page Animal Showcase</title>
+    <link rel="stylesheet" href="css/onepage-style.css">
+</head>
   </head>
 <body>
 
@@ -17,21 +19,23 @@
 
   <!-- Home Section -->
   <section id="home">
-    <h1>Welcome to Animal World</h1>
-    <p>This is a one-page site celebrating animals from around the globe.</p>
+    <h1 class="center-text">Welcome to Animal World</h1>
+    <p class="center-text">This is a one-page site celebrating animals from around the globe.</p>
   </section>
 
   <!-- Picture Gallery Section -->
   <section id="gallery">
-    <h2>Animal Gallery</h2>
-    <img src="images/cat.jpeg" alt="A Cat" width="200">
-    <img src="images/dog.jpeg" alt="A Dog" width="200">
-    <img src="images/elephant.jpeg" alt="An Elephant" width="200">
+    <h2 class="center-text">Animal Gallery</h2>
+    <div class="gallery-images">
+        <img src="images/cat.jpeg" alt="A Cat" width="200">
+        <img src="images/dog.jpeg" alt="A Dog" width="200">
+        <img src="images/elephant.jpeg" alt="An Elephant" width="200">
+    </div>
   </section>
 
   <!-- Video Section -->
   <section id="video">
-    <h2>Animal Video</h2>
+    <h2 class="center-text">Animal Video</h2>
     <video width="560" height="315" controls>
       <source src="images/animal.mp4" type="video/mp4">
       Your browser does not support the video tag.
@@ -40,7 +44,7 @@
 
   <!-- Contact Form Section -->
   <section id="contact">
-    <h2>Contact Us</h2>
+    <h2 class="center-text">Contact Us</h2>
     <form>
       <label for="name">Name:</label><br>
       <input type="text" id="name" name="name"><br><br>
