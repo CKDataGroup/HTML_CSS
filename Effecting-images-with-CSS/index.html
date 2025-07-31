@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title><col> Tag Example</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    col.col1 {
+      background-color: #f9c2ff;
+      width: 30%;
+    }
+    col.col2 {
+      background-color: #c2f9ff;
+      width: 40%;
+    }
+    col.col3 {
+      background-color: #d1ffc2;
+      width: 30%;
+    }
+    th, td {
+      border: 1px solid #333;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>HTML Table with &lt;col&gt; Tag</h1>
+
+  <table>
+    <colgroup>
+      <col class="col1">
+      <col class="col2">
+      <col class="col3">
+    </colgroup>
+    <thead>
+      <tr>
+        <th>Column 1</th>
+        <th>Column 2</th>
+        <th>Column 3</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Apple</td>
+        <td>Banana</td>
+        <td>Cherry</td>
+      </tr>
+      <tr>
+        <td>Dog</td>
+        <td>Elephant</td>
+        <td>Fox</td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+</html>
