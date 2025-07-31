@@ -15,7 +15,7 @@ This project includes:
  
 
 ## How to View the Project
-1. Download or clone the repository - [https://github.com/CKDataGroup/HTML_CSS](https://github.com/CKDataGroup/HTML_CSS.git)
+1. Download or clone the repository - [https://github.com/CKDataGroup/HTML_CSS]
 
 ## Skills Practiced
 - Writing HTML structure (headings, paragraphs, links, images).
@@ -28,4 +28,5 @@ This project includes:
 
 ## Acknowledgements
 - Thanks to my instructors, online tutorials, and practice materials that helped me learn the basics.
+
 
