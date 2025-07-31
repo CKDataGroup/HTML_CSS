@@ -1,7 +1,7 @@
-# My First HTML and CSS Project
+# HTML and CSS Projects
 
-This is my first project using basic HTML and CSS.  
-The goal of this project is to practice creating a simple web page with basic styling.
+These are my first projects using basic HTML and CSS.  
+The goal of these projects was to practice creating a simple web page with basic styling.
 
 ## Project Description
 This project includes:
@@ -9,8 +9,13 @@ This project includes:
 - Simple styling with CSS to improve the design.
 - Practice of HTML tags like headings, paragraphs, links, and images.
 
+## Projects
+- Space Station
+- Movie Theater Site
+ 
+
 ## How to View the Project
-1. Download or clone the repository - [https://github.com/CKDataGroup/HTML_CSS](https://github.com/CKDataGroup/HTML_CSS.git)
+1. Download or clone the repository - [https://github.com/CKDataGroup/HTML_CSS]
 
 ## Skills Practiced
 - Writing HTML structure (headings, paragraphs, links, images).
@@ -23,4 +28,5 @@ This project includes:
 
 ## Acknowledgements
 - Thanks to my instructors, online tutorials, and practice materials that helped me learn the basics.
+
 
